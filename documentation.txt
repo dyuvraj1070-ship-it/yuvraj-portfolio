@@ -1,0 +1,29 @@
+Student Name: Yuvraj Dhiman
+Date: 06 September 2026
+University: UPES Dehradun
+Course: B.Tech CSE (AI & ML)
+
+1. Template/Starting Point Used:
+- I built this portfolio entirely from scratch starting with a blank HTML file. I designed the layout and color scheme myself, focusing on a clean, minimalist user interface using raw HTML, CSS (Flexbox and Grid), and vanilla JavaScript without any external frameworks.
+
+2. AI Tools Used & Their Purpose:
+- Gemini / AI Assistant: Used as a pair-programming assistant to brainstorm responsive layout ideas, suggest CSS color palettes, and help troubleshoot specific CSS media queries to ensure the site looks good on mobile devices.
+
+3. Exact Prompts Used (Examples):
+- "What is the best way to structure a responsive CSS Grid for 3 project cards?"
+- "How do I create a sticky header with a mobile hamburger menu using vanilla JavaScript?"
+- "Review my HTML structure for my resume details and suggest semantic tag improvements."
+- "How can I style a download button in the footer to make it stand out?"
+
+4. Step-by-Step Method/Approach:
+- Step 1 (Planning): Gathered content from my resume and planned the website structure (Hero, About, Projects, Contact).
+- Step 2 (HTML Structure): Wrote the foundational HTML5 semantic tags to organize the content logically.
+- Step 3 (CSS Styling): Implemented CSS custom properties (variables) for a consistent color theme. Used Flexbox for the navigation bar and CSS Grid to align the project cards.
+- Step 4 (Responsiveness): Added CSS media queries to ensure the layout adapts smoothly to mobile screens, including hiding the main menu and showing a hamburger icon.
+- Step 5 (Interactivity): Wrote a custom JavaScript function to toggle the mobile menu open and closed.
+- Step 6 (Final Polish): Linked this documentation file to the footer download button and tested all links.
+- Step 7 (Deployment): Initialized a Git repository, committed my code, pushed it to GitHub, and enabled GitHub Pages for live hosting.
+
+5. Links:
+Live Website Link: 
+GitHub Repository Link: 
