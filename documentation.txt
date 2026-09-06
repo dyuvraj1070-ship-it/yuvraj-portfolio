@@ -25,5 +25,5 @@ Course: B.Tech CSE (AI & ML)
 - Step 7 (Deployment): Initialized a Git repository, committed my code, pushed it to GitHub, and enabled GitHub Pages for live hosting.
 
 5. Links:
-Live Website Link: 
-GitHub Repository Link: 
+Live Website Link: https://dyuvraj1070-ship-it.github.io/yuvraj-portfolio/
+GitHub Repository Link: https://github.com/dyuvraj1070-ship-it/yuvraj-portfolio.git
