@@ -1,29 +1,26 @@
-Student Name: Yuvraj Dhiman
-Date: 06 September 2026
+\Student Name: Yuvraj Dhiman
+Date: September 2026
 University: UPES Dehradun
-Course: B.Tech CSE (AI & ML)
+Course: B.Tech CSE (Core)
 
 1. Template/Starting Point Used:
-- I built this portfolio entirely from scratch starting with a blank HTML file. I designed the layout and color scheme myself, focusing on a clean, minimalist user interface using raw HTML, CSS (Flexbox and Grid), and vanilla JavaScript without any external frameworks.
+- Built entirely from scratch. I designed a modern "Dark Developer" UI focusing on clean aesthetics, using raw HTML5, CSS3, and Vanilla JavaScript. No external templates or frameworks like Bootstrap were used.
 
 2. AI Tools Used & Their Purpose:
-- Gemini / AI Assistant: Used as a pair-programming assistant to brainstorm responsive layout ideas, suggest CSS color palettes, and help troubleshoot specific CSS media queries to ensure the site looks good on mobile devices.
+- Gemini Enterprise: Used as a coding assistant to help implement concepts from my syllabus (Unit I & II). Specifically used AI to help debug CSS Grid properties for the project cards and ensure the JavaScript DOM manipulation for the mobile menu was efficient.
 
 3. Exact Prompts Used (Examples):
-- "What is the best way to structure a responsive CSS Grid for 3 project cards?"
-- "How do I create a sticky header with a mobile hamburger menu using vanilla JavaScript?"
-- "Review my HTML structure for my resume details and suggest semantic tag improvements."
-- "How can I style a download button in the footer to make it stand out?"
+- "How do I implement a CSS Grid layout that is responsive for 3 project cards?"
+- "What is the best way to structure a dark theme color palette using CSS variables?"
+- "How can I use JavaScript to toggle an active class for a mobile navigation menu?"
 
 4. Step-by-Step Method/Approach:
-- Step 1 (Planning): Gathered content from my resume and planned the website structure (Hero, About, Projects, Contact).
-- Step 2 (HTML Structure): Wrote the foundational HTML5 semantic tags to organize the content logically.
-- Step 3 (CSS Styling): Implemented CSS custom properties (variables) for a consistent color theme. Used Flexbox for the navigation bar and CSS Grid to align the project cards.
-- Step 4 (Responsiveness): Added CSS media queries to ensure the layout adapts smoothly to mobile screens, including hiding the main menu and showing a hamburger icon.
-- Step 5 (Interactivity): Wrote a custom JavaScript function to toggle the mobile menu open and closed.
-- Step 6 (Final Polish): Linked this documentation file to the footer download button and tested all links.
-- Step 7 (Deployment): Initialized a Git repository, committed my code, pushed it to GitHub, and enabled GitHub Pages for live hosting.
+- Step 1 (Structure): Wrote semantic HTML5 tags to structure the Header, Hero, About, Projects, Contact, and Footer. Included an HTML form in the contact section.
+- Step 2 (Layout): Applied CSS Flexbox for the navigation and CSS Grid for the project cards, adhering to Unit I of my frontend syllabus.
+- Step 3 (Styling): Implemented a CSS variable (:root) dark theme and added hover animations with box-shadows for a premium feel.
+- Step 4 (JavaScript): Wrote a toggleMenu() function (Unit II: DOM Manipulation) to make the navbar responsive on mobile devices.
+- Step 5 (Deployment): Added the download attribute to the documentation button and deployed the repository via GitHub Pages.
 
 5. Links:
 Live Website Link: https://dyuvraj1070-ship-it.github.io/yuvraj-portfolio/
-GitHub Repository Link: https://github.com/dyuvraj1070-ship-it/yuvraj-portfolio.git
+GitHub Repository Link: https://github.com/dyuvraj1070-ship-it/yuvraj-portfolio
